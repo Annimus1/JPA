@@ -1,0 +1,8 @@
+/home/pablo/NetBeansProjects/JpaTest/src/main/java/javax/persistence/GeneratedType.java
+/home/pablo/NetBeansProjects/JpaTest/src/main/java/Controller/exceptions/PreexistingEntityException.java
+/home/pablo/NetBeansProjects/JpaTest/src/main/java/Controller/AlumnoJpaController.java
+/home/pablo/NetBeansProjects/JpaTest/src/main/java/dev/pablo/jpatest/JpaTest.java
+/home/pablo/NetBeansProjects/JpaTest/src/main/java/Controller/exceptions/IllegalOrphanException.java
+/home/pablo/NetBeansProjects/JpaTest/src/main/java/Controller/exceptions/NonexistentEntityException.java
+/home/pablo/NetBeansProjects/JpaTest/src/main/java/Models/Alumno.java
+/home/pablo/NetBeansProjects/JpaTest/src/main/java/Controller/ManagerController.java

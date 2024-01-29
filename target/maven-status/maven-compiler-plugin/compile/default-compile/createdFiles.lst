@@ -1,0 +1,9 @@
+Models/Alumno_.class
+Controller/AlumnoJpaController.class
+Controller/exceptions/IllegalOrphanException.class
+javax/persistence/GeneratedType.class
+Controller/exceptions/PreexistingEntityException.class
+Controller/ManagerController.class
+dev/pablo/jpatest/JpaTest.class
+Controller/exceptions/NonexistentEntityException.class
+Models/Alumno.class
