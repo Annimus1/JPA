@@ -2,7 +2,7 @@
 
 CRUD Practice with a Mysql database made with Java persistence API, with EclipseLink `v2.7.10`
 
-## How to up the project in local environment
+## how to build the project in a local environment
 
 - First clone the repo `git clone https://github.com/Annimus1/JPA.git`
 
@@ -12,10 +12,18 @@ CRUD Practice with a Mysql database made with Java persistence API, with Eclipse
 
 - Make sure your sql server is running and create a database named "jpatest" with the following command `CREATE DATABASE jpatest;`
 
-- Now you can go to the project, second click in the priject and select "Buid" to download Maven dependencies
+- Now you can go to the project, second click in the priject and select "Build" to download Maven dependencies
 
 - Finally Run run the project.
 
-you should see this in your Database
+If everything went ok, you should be able to see this in your Database
 
-![]()
+__NOTE__: I used the command line but you can see it via phpmyadmin putting in the browser `http://localhost/phpmyadmin/` while Xamp is active.
+
+Commnad Line
+
+![command line](./screenshots/Imagen1.png)
+
+Phpmyadmin
+
+![phpmyadmin](./screenshots/Imagen2.png)
